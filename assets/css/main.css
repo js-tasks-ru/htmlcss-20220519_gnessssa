@@ -17,6 +17,10 @@
 
     --primary: var(--blue);
     --secondary: var(--purple);
+
+    --primary-hover:darkblue;
+    --secondary-hover:#5028C6;
+
 }
 
 * {
